@@ -4,6 +4,7 @@ public class Practice1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello repo");
+		System.out.println("Addes one more check");
 	}
 
 }
